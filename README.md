@@ -1,4 +1,4 @@
-In order to solve each of the following problems: finding a motif in DNA, genome assembly with perfect coverage, Bellman-Ford algorithm, finding connected components and quick sorting algorithm - the function was written. These functions are presented in warn_up.ipynb. Below I will describe how every function can be used for solving problem.
+In order to solve each of the following problems: finding a motif in DNA, genome assembly with perfect coverage, Bellman-Ford algorithm, finding connected components and quick sorting algorithm - the functions were written. These functions are presented in warn_up.ipynb. Below I will describe how every function can be used for solving problem.
 
  ## Problem 1. Finding a Motif in DNA.
 
@@ -73,9 +73,9 @@ Compute the number of connected components in a given undirected graph. The func
 ```
  ## Problem 5. Quick Sort.
 
-**Function**: kmp(string, substring)
+**Function**: QuickSort(array)
 
-This function sort array. Function applies quick sort algorithm.
+This function sorts array. Function applies quick sort algorithm.
 
 **Parametrs**:
  * array: array [1..n] of integers from −10^5 to  10^5
